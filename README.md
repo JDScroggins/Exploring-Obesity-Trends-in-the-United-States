@@ -1,4 +1,4 @@
-# Exploring Obesity Trends in the United States and Their Impact on Theme-Parks
+# Exploring Obesity Trends in the United States and Their Impact on Theme Parks
 
 ### Premise
 Obesity, according to the Center for Disease Control and Prevention (CDC), “Weight that is higher than what is considered healthy for a given height is described as overweight or obesity. Body Mass Index (BMI) is a screening tool for overweight and obesity.”. According to the CDC, if a person’s BMI is 30 or higher, that person would be considered obese. The waist circumference on average of an obese male is more than 40 inches and a non-pregnant female is more 35 inches. With the ride restrictions mentioned above, therefore the prevalence of obesity can be a good indicator of problems in accommodating guests on attractions.
